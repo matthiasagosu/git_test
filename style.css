@@ -1,3 +1,57 @@
 h1 {
   background-color: red;
+  color: blue;
+}
+
+img {
+  width: 30rem;
+  height: 30em;
+}
+
+.boxes-container {
+  display: flex;
+  justify-content: center;
+  color: rgba(255, 255, 255, 0);
+  height: 5rem;
+}
+.redbox {
+  background: red;
+  width: 5rem;
+  margin: 5px 0px;
+}
+
+.orangebox {
+  background: orange;
+  width: 5rem;
+  margin: 5px 0px;
+}
+
+.yellowbox {
+  background: yellow;
+  width: 5rem;
+  margin: 5px 0px;
+}
+
+.greenbox {
+  background: green;
+  width: 5rem;
+  margin: 5px 0px;
+}
+
+.bluebox {
+  background: blue;
+  width: 5rem;
+  margin: 5px 0px;
+}
+
+.indigobox {
+  background: indigo;
+  width: 5rem;
+  margin: 5px 0px;
+}
+
+.violetbox {
+  background: violet;
+  width: 5rem;
+  margin: 5px 0px;
 }
